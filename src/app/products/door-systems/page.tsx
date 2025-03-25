@@ -25,24 +25,10 @@ export default function DoorSystems() {
             ))}
           </ul>
           <div className="flex">
-<<<<<<< HEAD
-<<<<<<< HEAD
           <Button asChild >
             <Link href="/contact">Request a Quote <ArrowRight className="ml-2 h-4 w-4" /></Link>
           </Button>
           <Button asChild className="ml-4">
-=======
-          <Button asChild className="ml-4">
-            <Link href="/contact">Request a Quote <ArrowRight className="ml-2 h-4 w-4" /></Link>
-          </Button>
-          <Button asChild>
->>>>>>> ca8622131f8291214a5b5a39a2e2f9f223a9ea20
-=======
-          <Button asChild >
-            <Link href="/contact">Request a Quote <ArrowRight className="ml-2 h-4 w-4" /></Link>
-          </Button>
-          <Button asChild className="ml-4">
->>>>>>> 7755d285040455db79155e38593b28bd1b146b35
             <Link href="/documentation/specs/door-systems/detailed">View Specifications</Link>
           </Button>
           </div>
@@ -151,4 +137,3 @@ export default function DoorSystems() {
     </div>
   )
 }
-
